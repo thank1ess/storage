@@ -1,2 +1,2 @@
-This repository is a student storage. 
-Here you can find little programmes I create while studying.
+# This repository is a student storage.
+It consists of little pieces of code written while studying.
